@@ -1,1 +1,2 @@
-# dhishoom2
+# dhishoom
+Real time gunshot detection system
