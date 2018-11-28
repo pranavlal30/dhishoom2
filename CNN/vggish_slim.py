@@ -117,4 +117,5 @@ def load_vggish_slim_checkpoint(session, checkpoint_path):
   # Use a Saver to restore just the variables selected above.
   saver = tf.train.Saver(vggish_vars, name='vggish_load_pretrained',
                          write_version=1)
-  saver.restore(session, checkpoint_path)
+  ckpt=tf.train.get_checkpoint_state(checkpoint_path)
+  saver.restore(session, ckpt.model_checkpoint_path)

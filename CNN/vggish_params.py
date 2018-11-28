@@ -21,6 +21,7 @@ See vggish_slim.py for more information.
 NUM_FRAMES = 96  # Frames in input mel-spectrogram patch.
 NUM_BANDS = 64  # Frequency bands in input mel-spectrogram patch.
 EMBEDDING_SIZE = 128  # Size of embedding layer.
+MAX_FRAMES = 300
 
 # Hyperparameters used in feature and example generation.
 SAMPLE_RATE = 16000
@@ -50,3 +51,7 @@ INPUT_TENSOR_NAME = INPUT_OP_NAME + ':0'
 OUTPUT_OP_NAME = 'vggish/embedding'
 OUTPUT_TENSOR_NAME = OUTPUT_OP_NAME + ':0'
 AUDIO_EMBEDDING_FEATURE_NAME = 'audio_embedding'
+
+VGGISH_INPUT_TENSOR_NAME = 'vggish/input_features:0'
+VGGISH_OUTPUT_TENSOR_NAME = 'vggish/embedding:0'
+
