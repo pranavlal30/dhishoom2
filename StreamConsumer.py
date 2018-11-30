@@ -6,9 +6,18 @@ import numpy as np
 import datetime
 from scipy.io import wavfile
 from AudioClassifier.parse_file import process_data
+import csv
 
-outdir = "/Users/pranavlal/Documents/Big_Data/Project/dhishoom/DetectedGunshots/"
+#outdir = "/Users/pranavlal/Documents/Big_Data/Project/dhishoom/DetectedGunshots/"
+outdir = "/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/"
 
+def updateTable(sensorName, dt, flag, prediction, filepath):
+    myFile = open('/Users/pranavlal/Documents/Big_Data/Project/dhishoom/audio_clips.csv', 'a')
+    with myFile:  
+        myFields = ['sensorName', 'dt', 'flag', 'filepath']
+        writer = csv.writer(myFile, delimiter = "|")  
+        writer.writerow([sensorName, dt, flag, prediction, filepath])
+    
 def classify(rdd):
     wav_data = np.asarray(rdd.take(1), dtype=np.int16)
     outfile = ""
@@ -16,15 +25,20 @@ def classify(rdd):
         wav_data = wav_data.reshape(220500,2)
         prediction = process_data(wav_data)        
         print prediction
+        gunshot_flag = 0
         for cat in prediction:
             if "Gun" in str(cat[0]) or "Explosion" in str(cat[0]):
                 print "Gunshot detected!!!!!!!!"
-                outfile = outdir + "gun_" + datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S") + ".wav"
+                outfile = outdir + datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S") + ".wav"
+                gunshot_flag = 1
                 print wav_data
                 print type(wav_data)
             else:
-                outfile = outdir + "safe_" + datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S") + ".wav"
+                outfile = outdir + datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S") + ".wav"
                 print "All Good"
+        
+        updateTable("Sensor1",datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S"), gunshot_flag, prediction, outfile)
+        
         if len(outfile) > 0:
             wavfile.write(outfile, 22050, wav_data)
 	

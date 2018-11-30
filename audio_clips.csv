@@ -1,0 +1,5 @@
+Sensor1,2018-11-28_13:23:12,0,"[('Music', 0.9999854564666748), ('Speech', 0.9482349753379822), ('Inside, large room or hall', 0.1515946090221405)]",/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_13:23:12.wav
+Sensor1|2018-11-28_13:29:41|0|[('Music', 0.9999854564666748), ('Speech', 0.9482349753379822), ('Inside, large room or hall', 0.1515946090221405)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_13:29:41.wav
+Sensor1|2018-11-28_14:20:10|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:20:10.wav
+Sensor1|2018-11-28_14:21:19|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:21:19.wav
+Sensor1|2018-11-28_14:23:43|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:23:43.wav
