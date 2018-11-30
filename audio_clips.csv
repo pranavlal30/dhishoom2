@@ -3,3 +3,97 @@ Sensor1|2018-11-28_13:29:41|0|[('Music', 0.9999854564666748), ('Speech', 0.94823
 Sensor1|2018-11-28_14:20:10|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:20:10.wav
 Sensor1|2018-11-28_14:21:19|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:21:19.wav
 Sensor1|2018-11-28_14:23:43|1|[('Speech', 0.9998795390129089), ('Slam', 0.8003242015838623), ('Explosion', 0.1117667481303215)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom/ProcessedFiles/Sensor1/2018-11-28_14:23:43.wav
+Sensor1|2018-11-29_22:04:04|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:04:04.wav
+Sensor1|2018-11-29_22:16:48|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:16:48.wav
+Sensor1|2018-11-29_22:16:52|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:16:52.wav
+Sensor1|2018-11-29_22:18:42|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:18:42.wav
+Sensor1|2018-11-29_22:18:52|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:18:52.wav
+Sensor1|2018-11-29_22:19:02|0|[]|
+Sensor1|2018-11-29_22:19:12|0|[('Wind noise (microphone)', 0.1603657752275467)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:19:12.wav
+Sensor1|2018-11-29_22:19:22|0|[('Music', 0.9383421540260315)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:19:22.wav
+Sensor1|2018-11-29_22:19:32|1|[('Speech', 0.9531733989715576), ('Gunshot, gunfire', 0.4033302068710327)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:19:32.wav
+Sensor1|2018-11-29_22:19:42|1|[('Gunshot, gunfire', 0.9872897267341614)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:19:42.wav
+Sensor1|2018-11-29_22:19:52|0|[]|
+Sensor1|2018-11-29_22:20:02|0|[]|
+Sensor1|2018-11-29_22:20:12|0|[]|
+Sensor1|2018-11-29_22:20:22|0|[]|
+Sensor1|2018-11-29_22:20:32|0|[('Speech', 0.2959583103656769), ('Outside, urban or manmade', 0.19175933301448822)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:20:32.wav
+Sensor1|2018-11-29_22:25:35|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:25:35.wav
+Sensor1|2018-11-29_22:25:40|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:25:40.wav
+Sensor1|2018-11-29_22:25:50|0|[]|
+Sensor1|2018-11-29_22:26:00|0|[('Wind noise (microphone)', 0.1603657752275467)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:26:00.wav
+Sensor1|2018-11-29_22:29:23|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:29:23.wav
+Sensor1|2018-11-29_22:29:28|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:29:28.wav
+Sensor1|2018-11-29_22:29:38|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:29:38.wav
+Sensor1|2018-11-29_22:29:48|0|[('Wind noise (microphone)', 0.1603657752275467)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:29:48.wav
+Sensor1|2018-11-29_22:29:58|0|[('Music', 0.9383421540260315)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:29:58.wav
+Sensor1|2018-11-29_22:30:08|1|[('Speech', 0.9531733989715576), ('Gunshot, gunfire', 0.4033302068710327)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:30:08.wav
+Sensor1|2018-11-29_22:30:18|1|[('Gunshot, gunfire', 0.9872897267341614)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:30:18.wav
+Sensor1|2018-11-29_22:30:28|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:30:28.wav
+Sensor1|2018-11-29_22:32:28|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:32:28.wav
+Sensor1|2018-11-29_22:32:32|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:32:32.wav
+Sensor1|2018-11-29_22:32:42|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:32:42.wav
+Sensor1|2018-11-29_22:32:52|0|[('Wind noise (microphone)', 0.1603657752275467)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:32:52.wav
+Sensor1|2018-11-29_22:33:02|0|[('Music', 0.9383421540260315)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:02.wav
+Sensor1|2018-11-29_22:33:12|1|[('Speech', 0.9531733989715576), ('Gunshot, gunfire', 0.4033302068710327)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:12.wav
+Sensor1|2018-11-29_22:33:22|1|[('Gunshot, gunfire', 0.9872897267341614)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:22.wav
+Sensor1|2018-11-29_22:33:34|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:34.wav
+Sensor1|2018-11-29_22:33:44|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:44.wav
+Sensor1|2018-11-29_22:33:54|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:54.wav
+Sensor1|2018-11-29_22:34:04|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:34:04.wav
+Sensor1|2018-11-29_22:34:14|0|[('Speech', 0.2959583103656769), ('Outside, urban or manmade', 0.19175933301448822)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:34:14.wav
+Sensor1|2018-11-29_22:33:22|1|[('Gunshot, gunfire', 0.9872897267341614)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:33:22.wav
+Sensor1|2018-11-29_22:36:55|0|[('Firecracker', 0.9985677003860474), ('Speech', 0.13939696550369263)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:36:55.wav
+Sensor1|2018-11-29_22:36:58|0|[('Speech', 0.9997992515563965), ('Music', 0.22718949615955353)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:36:58.wav
+Sensor1|2018-11-29_22:37:08|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:08.wav
+Sensor1|2018-11-29_22:37:18|0|[('Wind noise (microphone)', 0.1603657752275467)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:18.wav
+Sensor1|2018-11-29_22:37:28|0|[('Music', 0.9383421540260315)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:28.wav
+Sensor1|2018-11-29_22:37:38|1|[('Speech', 0.9531733989715576), ('Gunshot, gunfire', 0.4033302068710327)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:38.wav
+Sensor1|2018-11-29_22:37:48|1|[('Gunshot, gunfire', 0.9872897267341614)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:48.wav
+Sensor1|2018-11-29_22:37:58|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:37:58.wav
+Sensor1|2018-11-29_22:38:08|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:38:08.wav
+Sensor1|2018-11-29_22:38:18|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:38:18.wav
+Sensor1|2018-11-29_22:38:28|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:38:28.wav
+Sensor1|2018-11-29_22:45:06|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:06.wav
+Sensor1|2018-11-29_22:45:09|0|[('Music', 0.9997547268867493), ('Maraca', 0.9235851764678955)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:09.wav
+Sensor1|2018-11-29_22:45:19|0|[('Music', 0.17329780757427216)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:19.wav
+Sensor1|2018-11-29_22:45:29|0|[('Speech', 0.9066547155380249), ('Music', 0.14751145243644714)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:29.wav
+Sensor1|2018-11-29_22:45:39|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:39.wav
+Sensor1|2018-11-29_22:45:49|0|[('Speech', 0.26012691855430603)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:49.wav
+Sensor1|2018-11-29_22:45:59|0|[('Music', 0.9958835244178772)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:45:59.wav
+Sensor1|2018-11-29_22:46:09|0|[('Music', 0.997474730014801), ('Speech', 0.9903697371482849)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:46:09.wav
+Sensor1|2018-11-29_22:46:19|0|[('Speech', 0.9998278617858887), ('Music', 0.9393254518508911)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:46:19.wav
+Sensor1|2018-11-29_22:46:29|0|[('Music', 0.9999947547912598), ('Maraca', 0.4514290690422058)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:46:29.wav
+Sensor1|2018-11-29_22:46:39|0|[('Music', 1.0), ('Speech', 0.9978992342948914)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:46:39.wav
+Sensor1|2018-11-29_22:46:49|0|[('Music', 0.9999974370002747), ('Speech', 0.8929394483566284), ('Maraca', 0.3400653600692749)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:46:49.wav
+Sensor1|2018-11-29_22:55:06|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:55:06.wav
+Sensor1|2018-11-29_22:55:10|0|[('Music', 0.9997547268867493), ('Maraca', 0.9235851764678955)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:55:10.wav
+Sensor1|2018-11-29_22:55:19|0|[('Music', 0.17329780757427216)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_22:55:19.wav
+Sensor1|2018-11-29_23:00:03|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:00:03.wav
+Sensor1|2018-11-29_23:00:07|0|[('Music', 0.9997547268867493), ('Maraca', 0.9235851764678955)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:00:07.wav
+Sensor1|2018-11-29_23:00:17|0|[('Music', 0.17329780757427216)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:00:17.wav
+Sensor1|2018-11-29_23:06:55|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:06:55.wav
+Sensor1|2018-11-29_23:08:14|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:08:14.wav
+Sensor1|2018-11-29_23:08:19|0|[('Music', 0.9997547268867493), ('Maraca', 0.9235851764678955)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:08:19.wav
+Sensor1|2018-11-29_23:09:16|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:09:16.wav
+Sensor1|2018-11-29_23:17:13|0|[('Speech', 0.8928466439247131)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:17:13.wav
+Sensor1|2018-11-29_23:17:59|0|[('Music', 0.9984830617904663)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:17:59.wav
+Sensor1|2018-11-29_23:18:04|0|[('Speech', 0.7903153896331787)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:18:04.wav
+Sensor1|2018-11-29_23:18:13|0|[('Mantra', 0.27079319953918457)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:18:13.wav
+Sensor1|2018-11-29_23:18:23|0|[('Mantra', 0.8945419788360596), ('Speech', 0.3624500632286072)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:18:23.wav
+Sensor1|2018-11-29_23:18:34|0|[('Music', 0.9977007508277893), ('Wood', 0.5099599957466125), ('Mantra', 0.3893384337425232)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:18:34.wav
+Sensor1|2018-11-29_23:18:43|0|[('Mantra', 0.250918984413147)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:18:43.wav
+
+
+***OUR AUDIO***
+Sensor1|2018-11-29_23:28:24|0|[('Mantra', 0.39513516426086426)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:28:24.wav
+Sensor1|2018-11-29_23:29:42|0|[('Speech', 0.9949235916137695)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:29:42.wav
+Sensor1|2018-11-29_23:42:27|0|[('Speech', 0.9949235916137695)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:42:27.wav
+Sensor1|2018-11-29_23:42:30|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:42:30.wav
+Sensor1|2018-11-29_23:42:40|0|[('Speech', 0.9993925094604492), ('Music', 0.9991826415061951)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:42:40.wav
+Sensor1|2018-11-29_23:42:50|0|[('Music', 0.8155544996261597)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:42:50.wav
+Sensor1|2018-11-29_23:43:00|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:43:00.wav
+Sensor1|2018-11-29_23:43:36|0|[('Music', 0.999993085861206), ('Shout', 0.9981290698051453)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:43:36.wav
+Sensor1|2018-11-29_23:43:46|0|[('Speech', 0.9940620064735413), ('Music', 0.5925747156143188)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:43:46.wav
+Sensor1|2018-11-29_23:43:56|0|[('Speech', 0.9996860027313232), ('Music', 0.10532282292842865)]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:43:56.wav
+Sensor1|2018-11-29_23:44:06|0|[]|/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/ProcessedFiles/Sensor1/2018-11-29_23:44:06.wav

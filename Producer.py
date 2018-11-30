@@ -32,12 +32,16 @@ def connect_kafka_producer():
         return _producer
 
 def iterate_files():
-    list_of_files = glob.glob('/Users/pranavlal/Documents/Big_Data/Project/dhishoom/VGG/wavefiles/eval/gunshots/*')
+    #list_of_files = glob.glob('/Users/pranavlal/Documents/Big_Data/Project/dhishoom/VGG/wavefiles/eval/gunshots/*')
+    list_of_files = glob.glob('/Users/pranavlal/Documents/Big_Data/Project/dhishoom/VGG/wavefiles/eval/negative/*')
+    #list_of_files = glob.glob('/Users/pranavlal/Documents/Big_Data/Project/dhishoom2/TestAudio/*')
     kafka_producer = connect_kafka_producer()
     for wave_file in list_of_files:
+    	print wave_file
         sr, wav_data = wavfile.read(wave_file)
-        publish_message(kafka_producer, topic, wav_data)
-        time.sleep(10)
+        if len(wav_data) == 220500:
+        	publish_message(kafka_producer, topic, wav_data)
+        	time.sleep(10)
 
     
 if __name__ == "__main__":
