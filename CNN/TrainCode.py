@@ -186,7 +186,7 @@ def main(_):
 
 			# print('got to the training loop')
 			# The training loop.
-			for epoch in range(0,150):
+			for epoch in range(0,500):
 				# print('inside the training loop')
 				for ind in range(train_iter):
 					# print('Step', step)
